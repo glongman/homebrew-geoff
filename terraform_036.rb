@@ -1,6 +1,6 @@
 require "formula"
 
-class Terraform_036 < Formula
+class Terraform036 < Formula
   homepage "http://www.terraform.io/"
   url "https://dl.bintray.com/mitchellh/terraform/terraform_0.3.6_darwin_amd64.zip"
   version "0.3.6"
